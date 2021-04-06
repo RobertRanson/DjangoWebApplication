@@ -1,5 +1,5 @@
 # Django Web Application
-##Chapter 1 Exercises:
+## Chapter 1 Exercises:
 ### Wireframe
 ![GUI Screenshot](https://i.imgur.com/pNrhJNj.png)
 ### Url Mapping
