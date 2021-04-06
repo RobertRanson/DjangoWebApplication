@@ -4,6 +4,6 @@
 ### Url Mapping
 ![GUI Screenshot](https://i.imgur.com/LTxPeIi.png)
 ### ER Diagram
-![GUI Screenshot](https://i.imgur.com/9ArETA1.png)
+![GUI Screenshot](https://i.imgur.com/Jmztzvb.png)
 ### System Architechure Diagram
 ![GUI Screenshot](https://i.imgur.com/YkD9rpF.png)
