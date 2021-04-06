@@ -1,4 +1,4 @@
-# DjangoWebApplication
+# Django Web Application
 ### Wireframe
 ![GUI Screenshot](https://i.imgur.com/pNrhJNj.png)
 ### Url Mapping
